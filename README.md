@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 Cyber Engineering graduate from School of Software, Dalian University of Technology.
-- 🔍 CTF reverse engineer, interested in cybersecurity.
+- 🔍 Former CTF Reverse engineering competitor, interested in cybersecurity.
 - 💻 Frontend & Android developer.
 - 🐧 Interested in Linux and open-source projects.
 
